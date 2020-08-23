@@ -1,0 +1,30 @@
+.skin-green .wrapper, .skin-green .left-side {
+    background-color: #000;
+}
+.parsley-errors-list{
+    list-style-type: none;
+    color: red;
+    font-weight: bold;
+    position: relative;
+    left: 35px;
+}
+.skin-green .sidebar-menu>li:hover>a, .skin-green .sidebar-menu>li.active>a, .skin-green .sidebar-menu>li.menu-open>a {
+    color: #ffffff;
+    background: #242a33;
+}
+
+.light-logo img {
+    max-width: 30%;
+    margin: 0 35%;
+}
+
+.sidebar-collapse .light-logo img {
+    max-width: 100%;
+    margin: 0;
+
+}
+
+.skin-green .sidebar a {
+    color: #ffffff;
+}
+
